@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(245, 245, 97);
+    color: rgb(237, 75, 43);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+
+}
+
+h1 {
+    color: rgb(40, 172, 164);
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
